@@ -1,0 +1,19 @@
+{
+  "name": "alpha",
+  "version": "0.0.1",
+  "description": "A website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-Metmer/node.git"
+  },
+  "author": "Miguel Metmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguel-Metmer/node/issues"
+  },
+  "homepage": "https://github.com/Miguel-Metmer/node#readme"
+}
